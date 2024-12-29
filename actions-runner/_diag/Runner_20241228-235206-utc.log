@@ -1,0 +1,209 @@
+[2024-12-28 23:52:06Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Bin': '/Users/home/mohsenkoushki.github.io/actions-runner/bin'
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Root': '/Users/home/mohsenkoushki.github.io/actions-runner'
+[2024-12-28 23:52:06Z INFO HostContext] Well known config file 'Credentials': '/Users/home/mohsenkoushki.github.io/actions-runner/.credentials'
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Bin': '/Users/home/mohsenkoushki.github.io/actions-runner/bin'
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Root': '/Users/home/mohsenkoushki.github.io/actions-runner'
+[2024-12-28 23:52:06Z INFO HostContext] Well known config file 'Runner': '/Users/home/mohsenkoushki.github.io/actions-runner/.runner'
+[2024-12-28 23:52:06Z INFO Listener] Runner is built for OSX (Arm64) - osx-arm64.
+[2024-12-28 23:52:06Z INFO Listener] RuntimeInformation: Darwin 24.1.0 Darwin Kernel Version 24.1.0: Thu Oct 10 21:02:45 PDT 2024; root:xnu-11215.41.3~2/RELEASE_ARM64_T8112.
+[2024-12-28 23:52:06Z INFO Listener] Version: 2.321.0
+[2024-12-28 23:52:06Z INFO Listener] Commit: e249007931b7c8e857797fa259c167f0bd4f997a
+[2024-12-28 23:52:06Z INFO Listener] Culture: en-US
+[2024-12-28 23:52:06Z INFO Listener] UI Culture: en-US
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Bin': '/Users/home/mohsenkoushki.github.io/actions-runner/bin'
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Root': '/Users/home/mohsenkoushki.github.io/actions-runner'
+[2024-12-28 23:52:06Z INFO Listener] Validating directory permissions for: '/Users/home/mohsenkoushki.github.io/actions-runner'
+[2024-12-28 23:52:06Z INFO CommandLineParser] Parse
+[2024-12-28 23:52:06Z INFO CommandLineParser] Parsing 5 args
+[2024-12-28 23:52:06Z INFO CommandLineParser] parsing argument
+[2024-12-28 23:52:06Z INFO CommandLineParser] HasArgs: False
+[2024-12-28 23:52:06Z INFO CommandLineParser] Adding Command: configure
+[2024-12-28 23:52:06Z INFO CommandLineParser] parsing argument
+[2024-12-28 23:52:06Z INFO CommandLineParser] HasArgs: True
+[2024-12-28 23:52:06Z INFO CommandLineParser] arg: url
+[2024-12-28 23:52:06Z INFO CommandLineParser] parsing argument
+[2024-12-28 23:52:06Z INFO CommandLineParser] HasArgs: True
+[2024-12-28 23:52:06Z INFO CommandLineParser] Adding option 'url': 'https://github.com/mohsenkoushki/mohsenkoushki.github.io'
+[2024-12-28 23:52:06Z INFO CommandLineParser] parsing argument
+[2024-12-28 23:52:06Z INFO CommandLineParser] HasArgs: True
+[2024-12-28 23:52:06Z INFO CommandLineParser] arg: token
+[2024-12-28 23:52:06Z INFO CommandLineParser] parsing argument
+[2024-12-28 23:52:06Z INFO CommandLineParser] HasArgs: True
+[2024-12-28 23:52:06Z INFO CommandLineParser] Adding option 'token': '***'
+[2024-12-28 23:52:06Z INFO Listener] Arguments parsed
+[2024-12-28 23:52:06Z INFO Runner] ExecuteCommand
+[2024-12-28 23:52:06Z INFO ConfigurationStore] currentAssemblyLocation: /Users/home/mohsenkoushki.github.io/actions-runner/bin/Runner.Listener.dll
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Bin': '/Users/home/mohsenkoushki.github.io/actions-runner/bin'
+[2024-12-28 23:52:06Z INFO ConfigurationStore] binPath: /Users/home/mohsenkoushki.github.io/actions-runner/bin
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Bin': '/Users/home/mohsenkoushki.github.io/actions-runner/bin'
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Root': '/Users/home/mohsenkoushki.github.io/actions-runner'
+[2024-12-28 23:52:06Z INFO ConfigurationStore] RootFolder: /Users/home/mohsenkoushki.github.io/actions-runner
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Bin': '/Users/home/mohsenkoushki.github.io/actions-runner/bin'
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Root': '/Users/home/mohsenkoushki.github.io/actions-runner'
+[2024-12-28 23:52:06Z INFO HostContext] Well known config file 'Runner': '/Users/home/mohsenkoushki.github.io/actions-runner/.runner'
+[2024-12-28 23:52:06Z INFO ConfigurationStore] ConfigFilePath: /Users/home/mohsenkoushki.github.io/actions-runner/.runner
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Bin': '/Users/home/mohsenkoushki.github.io/actions-runner/bin'
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Root': '/Users/home/mohsenkoushki.github.io/actions-runner'
+[2024-12-28 23:52:06Z INFO HostContext] Well known config file 'Credentials': '/Users/home/mohsenkoushki.github.io/actions-runner/.credentials'
+[2024-12-28 23:52:06Z INFO ConfigurationStore] CredFilePath: /Users/home/mohsenkoushki.github.io/actions-runner/.credentials
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Bin': '/Users/home/mohsenkoushki.github.io/actions-runner/bin'
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Root': '/Users/home/mohsenkoushki.github.io/actions-runner'
+[2024-12-28 23:52:06Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/home/mohsenkoushki.github.io/actions-runner/.credentials_migrated'
+[2024-12-28 23:52:06Z INFO ConfigurationStore] MigratedCredFilePath: /Users/home/mohsenkoushki.github.io/actions-runner/.credentials_migrated
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Bin': '/Users/home/mohsenkoushki.github.io/actions-runner/bin'
+[2024-12-28 23:52:06Z INFO HostContext] Well known directory 'Root': '/Users/home/mohsenkoushki.github.io/actions-runner'
+[2024-12-28 23:52:06Z INFO HostContext] Well known config file 'Service': '/Users/home/mohsenkoushki.github.io/actions-runner/.service'
+[2024-12-28 23:52:06Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/home/mohsenkoushki.github.io/actions-runner/.service
+[2024-12-28 23:52:06Z INFO CommandSettings] Flag 'help': 'False'
+[2024-12-28 23:52:06Z INFO CommandSettings] Flag 'version': 'False'
+[2024-12-28 23:52:06Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-12-28 23:52:06Z INFO CommandSettings] Flag 'check': 'False'
+[2024-12-28 23:52:06Z INFO CommandSettings] Command 'configure': 'True'
+[2024-12-28 23:52:06Z INFO Terminal] WRITE LINE: 
+[2024-12-28 23:52:06Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2024-12-28 23:52:06Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2024-12-28 23:52:06Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2024-12-28 23:52:06Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2024-12-28 23:52:06Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2024-12-28 23:52:06Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2024-12-28 23:52:06Z INFO Terminal] WRITE LINE: |                                                                              |
+[2024-12-28 23:52:06Z INFO Terminal] WRITE: |                       
+[2024-12-28 23:52:06Z INFO Terminal] WRITE: Self-hosted runner registration
+[2024-12-28 23:52:06Z INFO Terminal] WRITE LINE:                         |
+[2024-12-28 23:52:06Z INFO Terminal] WRITE LINE: |                                                                              |
+[2024-12-28 23:52:06Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2024-12-28 23:52:06Z INFO ConfigurationManager] ConfigureAsync
+[2024-12-28 23:52:06Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2024-12-28 23:52:06Z INFO ConfigurationStore] IsConfigured()
+[2024-12-28 23:52:06Z INFO ConfigurationStore] IsConfigured: False
+[2024-12-28 23:52:06Z INFO ConfigurationManager] Is configured: False
+[2024-12-28 23:52:06Z INFO CommandSettings] Arg 'url': 'https://github.com/mohsenkoushki/mohsenkoushki.github.io'
+[2024-12-28 23:52:06Z INFO CommandSettings] Remove url from Arg dictionary.
+[2024-12-28 23:52:06Z INFO CommandSettings] Arg 'token': '***'
+[2024-12-28 23:52:06Z INFO CommandSettings] Remove token from Arg dictionary.
+[2024-12-28 23:52:07Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration' (8032:53307:E4DC180:EABE0DE:6770AB57)
+[2024-12-28 23:52:07Z INFO ConfigurationManager] Using V2 flow: False
+[2024-12-28 23:52:07Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2024-12-28 23:52:07Z INFO RunnerServer] EstablishVssConnection
+[2024-12-28 23:52:07Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-12-28 23:52:07Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-12-28 23:52:07Z INFO RunnerServer] EstablishVssConnection
+[2024-12-28 23:52:07Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-12-28 23:52:07Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-12-28 23:52:07Z INFO RunnerServer] EstablishVssConnection
+[2024-12-28 23:52:07Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-12-28 23:52:07Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-12-28 23:52:08Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-12-28 23:52:08Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-12-28 23:52:08Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-12-28 23:52:08Z INFO Terminal] WRITE LINE: 
+[2024-12-28 23:52:08Z INFO ConfigurationManager] Test Connection complete.
+[2024-12-28 23:52:08Z INFO HostContext] Well known directory 'Bin': '/Users/home/mohsenkoushki.github.io/actions-runner/bin'
+[2024-12-28 23:52:08Z INFO HostContext] Well known directory 'Root': '/Users/home/mohsenkoushki.github.io/actions-runner'
+[2024-12-28 23:52:08Z INFO HostContext] Well known config file 'RSACredentials': '/Users/home/mohsenkoushki.github.io/actions-runner/.credentials_rsaparams'
+[2024-12-28 23:52:08Z INFO RSAFileKeyManager] Creating new RSA key using 2048-bit key length
+[2024-12-28 23:52:08Z INFO RSAFileKeyManager] Successfully saved RSA key parameters to file /Users/home/mohsenkoushki.github.io/actions-runner/.credentials_rsaparams
+[2024-12-28 23:52:08Z INFO RSAFileKeyManager] Which2: 'chmod'
+[2024-12-28 23:52:08Z INFO RSAFileKeyManager] Location: '/bin/chmod'
+[2024-12-28 23:52:08Z INFO HostContext] Well known directory 'Bin': '/Users/home/mohsenkoushki.github.io/actions-runner/bin'
+[2024-12-28 23:52:08Z INFO HostContext] Well known directory 'Root': '/Users/home/mohsenkoushki.github.io/actions-runner'
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper] Starting process:
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper]   Arguments: '600 /Users/home/mohsenkoushki.github.io/actions-runner/.credentials_rsaparams'
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper]   Working directory: '/Users/home/mohsenkoushki.github.io/actions-runner'
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper] Process started with process id 37153, waiting for process exit.
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-12-28 23:52:08Z INFO ProcessInvokerWrapper] Finished process 37153 with exit code 0, and elapsed time 00:00:00.0373631.
+[2024-12-28 23:52:08Z INFO RSAFileKeyManager] Successfully set permissions for RSA key parameters file /Users/home/mohsenkoushki.github.io/actions-runner/.credentials_rsaparams
+[2024-12-28 23:52:09Z INFO CommandSettings] Arg 'runnergroup': ''
+[2024-12-28 23:52:09Z INFO CommandSettings] Flag 'unattended': 'False'
+[2024-12-28 23:52:09Z INFO PromptManager] ReadValue
+[2024-12-28 23:52:09Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2024-12-28 23:52:09Z INFO Terminal] WRITE: [press Enter for Default] 
+[2024-12-28 23:52:09Z INFO Terminal] READ LINE
+[2024-12-28 23:52:39Z INFO Terminal] Read value: ''
+[2024-12-28 23:52:39Z INFO PromptManager] Falling back to the default: 'Default'
+[2024-12-28 23:52:39Z INFO Terminal] WRITE LINE: 
+[2024-12-28 23:52:39Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2024-12-28 23:52:39Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2024-12-28 23:52:39Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2024-12-28 23:52:39Z INFO CommandSettings] Arg 'name': ''
+[2024-12-28 23:52:39Z INFO CommandSettings] Flag 'unattended': 'False'
+[2024-12-28 23:52:39Z INFO PromptManager] ReadValue
+[2024-12-28 23:52:39Z INFO Terminal] WRITE: Enter the name of runner: 
+[2024-12-28 23:52:39Z INFO Terminal] WRITE: [press Enter for localhost] 
+[2024-12-28 23:52:39Z INFO Terminal] READ LINE
+[2024-12-28 23:52:41Z INFO Terminal] Read value: ''
+[2024-12-28 23:52:41Z INFO PromptManager] Falling back to the default: 'localhost'
+[2024-12-28 23:52:41Z INFO Terminal] WRITE LINE: 
+[2024-12-28 23:52:41Z INFO CommandSettings] Arg 'labels': ''
+[2024-12-28 23:52:41Z INFO CommandSettings] Flag 'unattended': 'False'
+[2024-12-28 23:52:41Z INFO PromptManager] ReadValue
+[2024-12-28 23:52:41Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'macOS', 'ARM64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2024-12-28 23:52:41Z INFO Terminal] WRITE: [press Enter to skip] 
+[2024-12-28 23:52:41Z INFO Terminal] READ LINE
+[2024-12-28 23:53:00Z INFO Terminal] Read value: ''
+[2024-12-28 23:53:00Z INFO Terminal] WRITE LINE: 
+[2024-12-28 23:53:00Z INFO Terminal] WRITE LINE: A runner exists with the same name
+[2024-12-28 23:53:00Z INFO CommandSettings] Flag 'replace': 'False'
+[2024-12-28 23:53:00Z INFO CommandSettings] Flag 'unattended': 'False'
+[2024-12-28 23:53:00Z INFO PromptManager] ReadValue
+[2024-12-28 23:53:00Z INFO Terminal] WRITE: Would you like to replace the existing runner? (Y/N) 
+[2024-12-28 23:53:00Z INFO Terminal] WRITE: [press Enter for N] 
+[2024-12-28 23:53:00Z INFO Terminal] READ LINE
+[2024-12-28 23:53:09Z INFO Terminal] Read value: 'y'
+[2024-12-28 23:53:09Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2024-12-28 23:53:09Z INFO CommandSettings] Flag 'no-default-labels': 'False'
+[2024-12-28 23:53:10Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2024-12-28 23:53:10Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2024-12-28 23:53:10Z INFO ConfigurationStore] Saving OAuth credential @ /Users/home/mohsenkoushki.github.io/actions-runner/.credentials
+[2024-12-28 23:53:10Z INFO ConfigurationStore] Credentials Saved.
+[2024-12-28 23:53:10Z INFO ConfigurationStore] HasCredentials()
+[2024-12-28 23:53:10Z INFO ConfigurationStore] stored True
+[2024-12-28 23:53:10Z INFO CredentialManager] GetCredentialProvider
+[2024-12-28 23:53:10Z INFO CredentialManager] Creating type OAuth
+[2024-12-28 23:53:10Z INFO CredentialManager] Creating credential type: OAuth
+[2024-12-28 23:53:10Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/home/mohsenkoushki.github.io/actions-runner/.credentials_rsaparams
+[2024-12-28 23:53:10Z INFO RunnerServer] EstablishVssConnection
+[2024-12-28 23:53:10Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-12-28 23:53:10Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-12-28 23:53:10Z INFO RunnerServer] EstablishVssConnection
+[2024-12-28 23:53:10Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-12-28 23:53:10Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-12-28 23:53:10Z INFO RunnerServer] EstablishVssConnection
+[2024-12-28 23:53:10Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-12-28 23:53:10Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-12-28 23:53:11Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-12-28 23:53:11Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-12-28 23:53:11Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-12-28 23:53:11Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/home/mohsenkoushki.github.io/actions-runner/.credentials_rsaparams
+[2024-12-28 23:53:11Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/home/mohsenkoushki.github.io/actions-runner/.credentials_rsaparams
+[2024-12-28 23:53:12Z ERR  GitHubActionsService] POST request to https://tokenghub.actions.githubusercontent.com/_apis/oauth2/token/90417eba-f862-4bd5-baee-381b77ab9220 failed. HTTP Status: BadRequest
+[2024-12-28 23:53:12Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-12-28 23:53:12Z ERR  ConfigurationManager] Catch exception during test agent connection.
+[2024-12-28 23:53:12Z ERR  ConfigurationManager] GitHub.Services.OAuth.VssOAuthTokenRequestException: The token expired on 12/28/2024 23:58:12. Current server time is 12/29/2024 01:53:28.
+   at GitHub.Services.OAuth.VssOAuthTokenProvider.OnGetTokenAsync(IssuedToken failedToken, CancellationToken cancellationToken)
+   at GitHub.Services.Common.IssuedTokenProvider.GetTokenOperation.GetTokenAsync(VssTraceActivity traceActivity)
+   at GitHub.Services.Common.IssuedTokenProvider.GetTokenAsync(IssuedToken failedToken, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.ConfigureAsync(CommandSettings command)
+[2024-12-28 23:53:12Z ERR  Runner] System.Exception: The local machine's clock may be out of sync with the server time by more than five minutes. Please sync your clock with your domain or internet time and try again.
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.ConfigureAsync(CommandSettings command)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+[2024-12-28 23:53:12Z ERR  Terminal] WRITE ERROR: The local machine's clock may be out of sync with the server time by more than five minutes. Please sync your clock with your domain or internet time and try again.
+[2024-12-28 23:53:12Z INFO Listener] Runner execution has finished with return code 1
